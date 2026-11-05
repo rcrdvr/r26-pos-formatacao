@@ -1,11 +1,11 @@
 # R26 Pós-Formatação
 
-Antes de formatar, guarda os drivers de rede, o Wi-Fi e a lista de programas no pendrive. Depois de
-formatar, devolve a internet, atualiza o Windows, reinstala os programas e faz ajustes com desfazer. Windows 10 e 11. Licença vitalícia, vendida pelo Mercado Livre.
+Formatou o computador? Guarda os drivers de rede antes e deixa o Windows pronto depois. Windows 10 e 11. Licença vitalícia, vendida pelo Mercado Livre.
 
 **Baixar:** em [Releases](../../releases/latest), arquivo `R26_PosFormatacao_Instalador.exe`.
 
-Depois de instalar, abra o programa, copie o "Código da máquina" e mande pelas mensagens da sua
-compra no Mercado Livre. A chave de ativação volta por lá.
+Depois de instalar, abra o programa e clique em **Liberar este computador**: aponte a câmera do
+celular para o QR, digite o número do seu pedido do Mercado Livre e, de volta ao computador, clique em
+**Já liberei no celular**. Sem celular, o botão **Liberar por aqui** faz o mesmo no próprio computador.
 
 R26 Sistemas · r26sistemas.com.br
